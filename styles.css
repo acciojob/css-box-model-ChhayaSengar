@@ -1,5 +1,11 @@
 
 /* Your CSS Code here. */
+body {
+  
+     color: solid black;
+	 text-align:justify;
+}
+
 div {
   width: 300px;
   border: 15px solid blue;
