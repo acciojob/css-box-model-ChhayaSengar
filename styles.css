@@ -1,12 +1,6 @@
 
-/* Your CSS Code here. */
-body {
-  
-     color: solid black;
-	 text-align:justify;
-}
 
-div {
+.box {
   width: 300px;
   border: 15px solid blue;
 	background-color:lightblue;
